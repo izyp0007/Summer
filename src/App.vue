@@ -29,11 +29,11 @@
      border: none;
      border-radius: 5px;
      color: white;
-     padding: 10px;
-     text-align: center;
+     padding: 5px;
+     text-align:  center;
      text-decoration: none;
      display: inline-block;
-     font-size: 1.2rem;
+     font-size: 1rem;
      margin: 4px 2px;
  }
  button.primary {
@@ -64,6 +64,10 @@
  .error {
      color: #F35537;
  }
+
+ a {
+	color: #77C4D3;
+   }
  .column {
      width: 800px;
  }
